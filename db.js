@@ -29,7 +29,6 @@ function save(bookmark, callback) {
 			});
 		} else {
 			// TODO: Update.
-			console.log("exists", row);
 			callback();
 			// throw "Something found.";
 		}

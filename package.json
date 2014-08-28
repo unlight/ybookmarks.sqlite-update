@@ -1,5 +1,6 @@
 {
   "name": "ybookmarks.sqlite-repair",
+  "private": true,
   "version": "0.0.1",
   "description": "Update database (ybookmarks.sqlite) of FireFox extension Delicious Bookmarks by AVOS System Inc.",
   "main": "index.js",
