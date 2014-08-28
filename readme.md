@@ -10,3 +10,7 @@ REQUIREMENTS
 
 USAGE
 -----
+1. Export your delicious links http://export.delicious.com/settings/bookmarks/export
+2. Click "Export", save file
+3. Move file to directory
+4. Run script `node update.js`

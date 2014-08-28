@@ -1,0 +1,1 @@
+traceur --script update.js --out ../update.js
