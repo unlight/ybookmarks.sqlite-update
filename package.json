@@ -1,0 +1,17 @@
+{
+  "name": "ybookmarks.sqlite-repair",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "dblite": "latest",
+    "htmltidy": "0.0.6",
+    "memorystream": "^0.2.0",
+    "trumpet": "^1.6.5",
+    "xml2json": "^0.4.0"
+  }
+}
